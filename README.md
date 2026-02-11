@@ -1,4 +1,2 @@
 # NexLive
 MERN stack project.
-
-
