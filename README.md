@@ -1,2 +1,2 @@
 # NexLive
-MERN stack projec
+MERN stack project.
