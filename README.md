@@ -142,7 +142,7 @@ Full-stack development
 
 Event-driven architecture
 
-<!-- Web communication protocols -->
+Web communication protocols
 
 
 
