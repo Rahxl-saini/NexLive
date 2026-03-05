@@ -140,9 +140,9 @@ Networking concepts
 
 Full-stack development
 
-<!-- Event-driven architecture
+Event-driven architecture
 
-Web communication protocols -->
+Web communication protocols
 
 
 
