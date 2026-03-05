@@ -139,10 +139,10 @@ Real-time systems
 Networking concepts
 
 Full-stack development
-<!-- 
-<!-- Event-driven architecture
 
-Web communication protocols --> -->
+Event-driven architecture
+
+Web communication protocols
 
 
 
