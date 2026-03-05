@@ -138,11 +138,11 @@ Real-time systems
 
 Networking concepts
 
-<!-- Full-stack development
+Full-stack development
 
 Event-driven architecture
 
-Web communication protocols -->
+Web communication protocols
 
 
 
