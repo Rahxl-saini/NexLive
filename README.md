@@ -89,7 +89,7 @@ npm start
 
 Open https://nexlivefrontend.onrender.com in your browser.
 
-open https://nexlivebackend.onrender.com in your browser.
+Open https://nexlivebackend.onrender.com in your browser.
 
 # 📈 Scalability & Improvements (Future Enhancements)
 
