@@ -1,11 +1,11 @@
 # NexLive
 
-🚀 NexLive – Real-Time Video Conferencing Platform
+# 🚀 NexLive – Real-Time Video Conferencing Platform
 
 NexLive is a full-stack real-time video conferencing application built using WebRTC and Socket.io, enabling secure peer-to-peer media streaming and low-latency communication.
 It is designed with a scalable architecture to support seamless multi-user meetings and real-time collaboration.
 
-🌟 Key Features
+# 🌟 Key Features
 
 🔴 Real-time video & audio communication (WebRTC)
 
@@ -25,7 +25,7 @@ It is designed with a scalable architecture to support seamless multi-user meeti
 
 ⚡ Low-latency communication architecture
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 
 NexLive follows a client-server signaling architecture:
 
@@ -47,8 +47,8 @@ WebRTC establishes peer connection.
 
 Direct media streaming begins between users.
 
-🛠️ Tech Stack
-Frontend
+# 🛠️ Tech Stack
+# Frontend
 
 HTML5 / CSS3
 
@@ -56,7 +56,7 @@ JavaScript
 
 (Optional: React.js if you used it)
 
-Backend
+# Backend
 
 Node.js
 
@@ -68,14 +68,15 @@ Core Technology
 
 WebRTC (Real-Time Communication API)
 
-📂 Project Structure
+# 📂 Project Structure
 NexLive/
 │── client/
 │── server/
 │── public/
 │── package.json
 │── README.md
-⚙️ Installation & Setup
+
+# ⚙️ Installation & Setup
 
 # Navigate into project folder
 cd NexLive
@@ -90,7 +91,7 @@ Open https://nexlivefrontend.onrender.com in your browser.
 
 open https://nexlivebackend.onrender.com in your browser.
 
-📈 Scalability & Improvements (Future Enhancements)
+# 📈 Scalability & Improvements (Future Enhancements)
 
 Screen sharing
 
@@ -106,7 +107,7 @@ Cloud deployment (AWS / Render / Vercel)
 
 Database integration (MongoDB)
 
-🧠 What I Learned
+# 🧠 What I Learned
 
 Deep understanding of WebRTC signaling process
 
@@ -118,7 +119,7 @@ Building scalable real-time systems
 
 Debugging asynchronous network events
 
-📌 Resume-Ready Bullet Points (Use These)
+# 📌 Resume-Ready Bullet Points (Use These)
 
 Developed a real-time video conferencing platform using WebRTC and Socket.io.
 
@@ -130,7 +131,7 @@ Built real-time chat and meeting controls functionality.
 
 Managed signaling server and connection lifecycle events.
 
-🎯 Why NexLive?
+# 🎯 Why NexLive?
 
 NexLive demonstrates strong knowledge of:
 
